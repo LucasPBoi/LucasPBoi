@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Lucas!
-24 y/o, He/Him.
-I code sometimes! Draw a lot!
-Math Major.
-Fighting games and TCGs are cool......
+// My name is Lucas!
+// 24 y/o, He/Him.
+// I code sometimes! Draw a lot!
+// Math Major.
+// Fighting games and TCGs are cool......
 
 
 <!--
