@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Lucas!
+24 y/o, He/Him.
+I code sometimes! Draw a lot!
+Math Major.
+Fighting games and TCGs are cool......
+
+
 <!--
 **LucasPBoi/LucasPBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
